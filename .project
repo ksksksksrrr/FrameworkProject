@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FrameworkProject</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/resources/log4j2.xml</name>
+			<type>1</type>
+			<location>C:/Users/K Sai Ramya/Downloads/log4j2.xml</location>
+		</link>
+		<link>
+			<name>src/test/java/api/utilities/DataProviders.java</name>
+			<type>1</type>
+			<location>C:/Users/K Sai Ramya/Downloads/DataProviders.java</location>
+		</link>
+		<link>
+			<name>src/test/java/api/utilities/ExtentReportManager.java</name>
+			<type>1</type>
+			<location>C:/Users/K Sai Ramya/Downloads/ExtentReportManager.java</location>
+		</link>
+		<link>
+			<name>src/test/java/api/utilities/XLUtility.java</name>
+			<type>1</type>
+			<location>C:/Users/K Sai Ramya/Downloads/XLUtility.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
